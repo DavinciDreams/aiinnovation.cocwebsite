@@ -3,26 +3,26 @@ import { Blog } from "@/types/blog";
 const blogData: Blog[] = [
   {
     id: 1,
-    title: "Best UI components for modern websites",
+    title: "AI Innovators Whitepaper",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "AI Innovators - Revolutionizing Artificial Intelligence through Accessibility, Customization, and Collaboration",
     image: "/images/blog/blog-01.jpg",
     author: {
-      name: "Samuyl Joshi",
+      name: "AI Assisted",
       image: "/images/blog/author-01.png",
-      designation: "Graphic Designer",
+      designation: "Content Writer",
     },
-    tags: ["creative"],
-    publishDate: "2025",
+    tags: ["whitepaper"],
+    publishDate: "2023",
   },
   {
     id: 2,
-    title: "9 simple ways to improve your design skills",
+    title: "Open Source AI",
     paragraph:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
     image: "/images/blog/blog-02.jpg",
     author: {
-      name: "Musharof Chy",
+      name: "Chat GPT",
       image: "/images/blog/author-02.png",
       designation: "Content Writer",
     },
